@@ -5,11 +5,13 @@ Home: http://github.com/tongzhugroup/reacnetgenerator
 
 Package license: LGPL-3.0
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/reacnetgenerator-feedstock/blob/master/LICENSE.txt)
 
 Summary: An automatic generator of reaction network for reactive molecular dynamics simulation.
 
+Development: https://github.com/tongzhugroup/reacnetgenerator
 
+Documentation: https://reacnetgenerator.njzjz.win/
 
 Current build status
 ====================
