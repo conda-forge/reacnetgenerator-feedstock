@@ -13,7 +13,7 @@ is_abi3:
 is_python_min:
 - true
 nodejs:
-- '20'
+- '24'
 pin_run_as_build:
   python:
     min_pin: x.x
